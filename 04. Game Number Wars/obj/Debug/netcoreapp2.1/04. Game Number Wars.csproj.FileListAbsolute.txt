@@ -1,0 +1,13 @@
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\bin\Debug\netcoreapp2.1\04. Game Number Wars.deps.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\bin\Debug\netcoreapp2.1\04. Game Number Wars.runtimeconfig.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\bin\Debug\netcoreapp2.1\04. Game Number Wars.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\bin\Debug\netcoreapp2.1\04. Game Number Wars.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\bin\Debug\netcoreapp2.1\04. Game Number Wars.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Game Number Wars\obj\Debug\netcoreapp2.1\04. Game Number Wars.genruntimeconfig.cache

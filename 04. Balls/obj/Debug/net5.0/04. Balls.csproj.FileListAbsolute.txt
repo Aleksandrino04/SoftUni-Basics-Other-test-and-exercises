@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.exe
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.deps.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.runtimeconfig.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\ref\04. Balls.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\bin\Debug\net5.0\04. Balls.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\ref\04. Balls.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\04. Balls\obj\Debug\net5.0\04. Balls.genruntimeconfig.cache

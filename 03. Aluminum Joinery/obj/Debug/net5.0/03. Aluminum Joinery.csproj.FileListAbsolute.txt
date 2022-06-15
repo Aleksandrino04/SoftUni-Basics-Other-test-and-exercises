@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.exe
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.deps.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\ref\03. Aluminum Joinery.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\bin\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.AssemblyReference.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\ref\03. Aluminum Joinery.dll
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.pdb
+C:\Users\maxib\source\repos\Drugi testove i zadachi\03. Aluminum Joinery\obj\Debug\net5.0\03. Aluminum Joinery.genruntimeconfig.cache
